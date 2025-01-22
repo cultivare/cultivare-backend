@@ -1,0 +1,304 @@
+[
+    {
+        "id": "6b6e776c6467",
+        "name": "Oyster-12 Spore Print",
+        "favorite": true,
+        "slug": "oyster-12-spore-print",
+        "parent_ids": [],
+        "tags": [
+            "sporeprint",
+            "gourmet",
+            "oyster"
+        ],
+        "source_id": null,
+        "origin_date": "2024-02-14T20:00:00",
+        "completion_date": null,
+        "species": "Pleurotus ostreatus",
+        "strain": "Pearl Oyster",
+        "media_type": null,
+        "media_composition": null,
+        "temperature": null,
+        "humidity": null,
+        "light_conditions": null,
+        "growth_rate": null,
+        "morphology_notes": null,
+        "experiment_id": null,
+        "updated_at": "2024-02-14T04:30:55.768000",
+        "created_at": "2024-02-14T02:45:01.170000"
+    },
+    {
+        "id": "77616e74735f",
+        "name": "Oyster-12 Agar",
+        "favorite": true,
+        "slug": "oyster-12-agar",
+        "parent_ids": [
+            "6b6e776c6467"
+        ],
+        "tags": [
+            "agar"
+        ],
+        "source_id": null,
+        "origin_date": "2024-07-24T20:00:00",
+        "completion_date": null,
+        "species": "Pleurotus ostreatus",
+        "strain": "Pearl Oyster",
+        "media_type": null,
+        "media_composition": null,
+        "temperature": null,
+        "humidity": null,
+        "light_conditions": null,
+        "growth_rate": null,
+        "morphology_notes": null,
+        "experiment_id": null,
+        "updated_at": "2024-07-24T03:41:03.999000",
+        "created_at": "2024-07-24T02:45:01.170000"
+    },
+    {
+        "id": "746f2062655f",
+        "name": "Oyster-12 Transfer-1",
+        "favorite": false,
+        "slug": "oyster-12-transfer-1",
+        "parent_ids": [
+            "77616e74735f"
+        ],
+        "tags": [
+            "agar"
+        ],
+        "source_id": null,
+        "origin_date": "2024-07-31T02:45:01.170000",
+        "completion_date": null,
+        "species": "Pleurotus ostreatus",
+        "strain": "Pearl Oyster",
+        "media_type": null,
+        "media_composition": null,
+        "temperature": null,
+        "humidity": null,
+        "light_conditions": null,
+        "growth_rate": null,
+        "morphology_notes": null,
+        "experiment_id": null,
+        "updated_at": "2024-07-31T04:17:18.602000",
+        "created_at": "2024-07-31T02:45:01.170000"
+    },
+    {
+        "id": "6b6e6f776e5f",
+        "name": "Oyster-12 Transfer-1-2",
+        "favorite": false,
+        "slug": "oyster-12-transfer-1-2",
+        "parent_ids": [
+            "746f2062655f"
+        ],
+        "tags": [],
+        "source_id": null,
+        "origin_date": "2024-08-08T02:45:01.170000",
+        "completion_date": null,
+        "species": "Pleurotus ostreatus",
+        "strain": "Pearl Oyster",
+        "media_type": null,
+        "media_composition": null,
+        "temperature": null,
+        "humidity": null,
+        "light_conditions": null,
+        "growth_rate": null,
+        "morphology_notes": null,
+        "experiment_id": null,
+        "updated_at": "2024-08-08T02:45:01.170000",
+        "created_at": "2024-08-08T02:45:01.170000"
+    },
+    {
+        "id": "5f6a7573745f",
+        "name": "Oyster-12 Grain",
+        "favorite": false,
+        "slug": "oyster-12-grain",
+        "parent_ids": [
+            "6b6e6f776e5f"
+        ],
+        "tags": [
+            "grain"
+        ],
+        "source_id": null,
+        "origin_date": "2024-08-21T02:45:01.170000",
+        "completion_date": null,
+        "species": "Pleurotus ostreatus",
+        "strain": "Pearl Oyster",
+        "media_type": null,
+        "media_composition": null,
+        "temperature": null,
+        "humidity": null,
+        "light_conditions": null,
+        "growth_rate": null,
+        "morphology_notes": null,
+        "experiment_id": null,
+        "updated_at": "2024-08-21T04:50:18.458000",
+        "created_at": "2024-08-21T02:45:01.170000"
+    },
+    {
+        "id": "5f646976655f",
+        "name": "Oyster-12 Spawning-1",
+        "favorite": false,
+        "slug": "oyster-12-spawning-1",
+        "parent_ids": [
+            "5f6a7573745f"
+        ],
+        "tags": [
+            "coco",
+            "verm",
+            "spawn"
+        ],
+        "source_id": null,
+        "origin_date": "2024-09-27T02:45:01.170000",
+        "completion_date": null,
+        "species": "Pleurotus ostreatus",
+        "strain": "Pearl Oyster",
+        "media_type": null,
+        "media_composition": null,
+        "temperature": null,
+        "humidity": null,
+        "light_conditions": null,
+        "growth_rate": null,
+        "morphology_notes": null,
+        "experiment_id": null,
+        "updated_at": "2024-09-27T06:47:52.695000",
+        "created_at": "2024-09-27T02:45:01.170000"
+    },
+    {
+        "id": "646565706572",
+        "name": "Oyster-12 Clone",
+        "favorite": false,
+        "slug": "oyster-12-clone",
+        "parent_ids": [
+            "5f646976655f"
+        ],
+        "tags": [
+            "clone",
+            "petri"
+        ],
+        "source_id": null,
+        "origin_date": "2024-10-10T02:45:01.170000",
+        "completion_date": null,
+        "species": "Pleurotus ostreatus",
+        "strain": "Pearl Oyster",
+        "media_type": null,
+        "media_composition": null,
+        "temperature": null,
+        "humidity": null,
+        "light_conditions": null,
+        "growth_rate": null,
+        "morphology_notes": null,
+        "experiment_id": null,
+        "updated_at": "2024-10-10T06:47:16.218000",
+        "created_at": "2024-10-10T02:45:01.170000"
+    },
+    {
+        "id": "646976696e65",
+        "name": "Oyster-12 Harvest-1",
+        "favorite": true,
+        "slug": "oyster-12-harvest-1",
+        "parent_ids": [
+            "5f646976655f"
+        ],
+        "tags": [
+            "harvest",
+            "oyster",
+            "providence"
+        ],
+        "source_id": null,
+        "origin_date": "2024-10-12T02:45:01.170000",
+        "completion_date": null,
+        "species": "Pleurotus ostreatus",
+        "strain": "Pearl Oyster",
+        "media_type": null,
+        "media_composition": null,
+        "temperature": null,
+        "humidity": null,
+        "light_conditions": null,
+        "growth_rate": null,
+        "morphology_notes": null,
+        "experiment_id": null,
+        "updated_at": "2024-10-12T07:11:43.193000",
+        "created_at": "2024-10-12T02:45:01.170000"
+    },
+    {
+        "id": "646f6e746265",
+        "name": "Oyster-12 Spawning-2",
+        "favorite": false,
+        "slug": "oyster-12-spawning-2",
+        "parent_ids": [
+            "5f6a7573745f"
+        ],
+        "tags": [
+            "coco",
+            "verm",
+            "spawn"
+        ],
+        "source_id": null,
+        "origin_date": "2024-09-27T02:45:01.170000",
+        "completion_date": null,
+        "species": "Pleurotus ostreatus",
+        "strain": "Pearl Oyster",
+        "media_type": null,
+        "media_composition": null,
+        "temperature": null,
+        "humidity": null,
+        "light_conditions": null,
+        "growth_rate": null,
+        "morphology_notes": null,
+        "experiment_id": null,
+        "updated_at": "2024-09-27T07:50:09.852000",
+        "created_at": "2024-09-27T02:45:01.170000"
+    },
+    {
+        "id": "616672616964",
+        "name": "Oyster-12 Harvest-2",
+        "favorite": false,
+        "slug": "oyster-12-harvest-2",
+        "parent_ids": [
+            "646f6e746265"
+        ],
+        "tags": [],
+        "source_id": null,
+        "origin_date": "2024-10-11T02:45:01.170000",
+        "completion_date": null,
+        "species": "Pleurotus ostreatus",
+        "strain": "Pearl Oyster",
+        "media_type": null,
+        "media_composition": null,
+        "temperature": null,
+        "humidity": null,
+        "light_conditions": null,
+        "growth_rate": null,
+        "morphology_notes": null,
+        "experiment_id": null,
+        "updated_at": "2024-10-11T06:51:42.376000",
+        "created_at": "2024-10-11T02:45:01.170000"
+    },
+    {
+        "id": "6f70656e7570",
+        "name": "Oyster-12 Transfer-2",
+        "favorite": false,
+        "slug": "oyster-12-transfer-2",
+        "parent_ids": [
+            "77616e74735f"
+        ],
+        "tags": [
+            "transfer",
+            "agar",
+            "oyster"
+        ],
+        "source_id": null,
+        "origin_date": "2024-07-31T20:00:00",
+        "completion_date": null,
+        "species": "Pleurotus ostreatus",
+        "strain": "Pearl Oyster",
+        "media_type": null,
+        "media_composition": null,
+        "temperature": null,
+        "humidity": null,
+        "light_conditions": null,
+        "growth_rate": null,
+        "morphology_notes": null,
+        "experiment_id": null,
+        "updated_at": "2024-07-31T03:41:34.816000",
+        "created_at": "2024-07-31T02:45:01.170000"
+    }
+]
