@@ -1,0 +1,49 @@
+# Ignore version control directories
+.git
+.svn
+.hg
+
+# Ignore build and IDE artifacts
+__pycache__
+*.pyc
+*.pyo
+.vscode
+.idea
+build
+temp
+
+# Ignore virtual environments
+venv
+env
+.env
+.env.example
+auth.json
+
+# Ignore test and log files
+test*
+*.log
+
+# Ignore configuration files (if you want to manage them externally)
+config.ini
+settings.py
+.env
+.env_example
+.streamlit
+.python-version
+
+# Ignore documentation files (if not needed in the container)
+docs
+*.md
+
+# Ignore data files (if large or sensitive)
+data
+*.csv
+*.xlsx
+
+# Ignore macOS-specific files
+.DS_Store
+
+# Cultivare
+run_dev_server.py
+build_docker.bat
+temp/
