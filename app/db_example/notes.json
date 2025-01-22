@@ -1,0 +1,235 @@
+[
+    {
+        "id": "17e61aec6b6f",
+        "culture_id": "6b6e776c6467",
+        "favorite": false,
+        "tags": [
+            "oyster",
+            "sporeprint",
+            "old"
+        ],
+        "text": "old Oyster spore print that my old friend Bod gave me. but why is it green?",
+        "color": "#2a2a2a",
+        "image_filename": "17e61aec6b6f.jpg",
+        "updated_at": "2024-02-14T07:15:40.789000",
+        "created_at": "2024-02-14T03:20:40.208000"
+    },
+    {
+        "id": "6cb63bb42e0a",
+        "culture_id": "77616e74735f",
+        "favorite": false,
+        "tags": [
+            "agar",
+            "recipe"
+        ],
+        "text": "Agar recipe. For 1000 ml of water: 20g agar agar, 20g malt extract, 2 g nutritional yeast",
+        "color": "#2a2a2a",
+        "image_filename": null,
+        "updated_at": "2024-07-24T03:30:21.307000",
+        "created_at": "2024-07-24T03:30:21.307000"
+    },
+    {
+        "id": "3e1927bbdb05",
+        "culture_id": "77616e74735f",
+        "favorite": true,
+        "tags": [
+            "mycelium",
+            "contam",
+            "oyster"
+        ],
+        "text": "Although these are old spores - but the mycelium grew quickly.  looks yummy! Im not sure if there is a contamination. I need to ask on the community message board",
+        "color": "#FFFF88",
+        "image_filename": "3e1927bbdb05.png",
+        "updated_at": "2024-07-30T04:31:57.761000",
+        "created_at": "2024-07-30T03:39:48.674000"
+    },
+    {
+        "id": "f467aa9893af",
+        "culture_id": "6f70656e7570",
+        "favorite": true,
+        "tags": [
+            "contam"
+        ],
+        "text": "This shouldn't be like this - I was told to disinfect the entire apartment. Now I sleep in level A HAZMAT suit!",
+        "color": "#FF7F50",
+        "image_filename": "f467aa9893af.png",
+        "updated_at": "2024-07-31T07:47:01.928000",
+        "created_at": "2024-07-31T04:06:40.351000"
+    },
+    {
+        "id": "df448f5b4276",
+        "culture_id": "6f70656e7570",
+        "favorite": false,
+        "tags": [
+            "contam"
+        ],
+        "text": "took dish to Mt.Doom for storage... but now my culture are cleaner than my kitchen!",
+        "color": "#2A2A2A",
+        "image_filename": null,
+        "updated_at": "2024-07-31T04:35:17.722000",
+        "created_at": "2024-07-31T04:07:00.528000"
+    },
+    {
+        "id": "adb82accb8fe",
+        "culture_id": "746f2062655f",
+        "favorite": true,
+        "tags": [
+            "rhizomorphic",
+            "agar"
+        ],
+        "text": "looks very healthy, grew quickly. just in case I will do another transfer",
+        "color": "#2a2a2a",
+        "image_filename": "adb82accb8fe.png",
+        "updated_at": "2024-07-31T04:17:01.343000",
+        "created_at": "2024-07-31T04:17:01.343000"
+    },
+    {
+        "id": "59ea73ab568a",
+        "culture_id": "6b6e6f776e5f",
+        "favorite": false,
+        "tags": [],
+        "text": "This is definitely the last transfer (but it's not certain)!",
+        "color": "#2a2a2a",
+        "image_filename": null,
+        "updated_at": "2024-07-31T04:20:22.932000",
+        "created_at": "2024-07-31T04:19:09.916000"
+    },
+    {
+        "id": "e4cd2eb0fabd",
+        "culture_id": "6b6e6f776e5f",
+        "favorite": true,
+        "tags": [
+            "petri",
+            "isolate"
+        ],
+        "text": "this time i didn't use the petri dish lid as a frisbee - and now i have pure isolate!!",
+        "color": "#228B22",
+        "image_filename": "e4cd2eb0fabd.png",
+        "updated_at": "2024-07-31T04:35:49.229000",
+        "created_at": "2024-07-31T04:29:38.325000"
+    },
+    {
+        "id": "adbed6eba71f",
+        "culture_id": "5f6a7573745f",
+        "favorite": false,
+        "tags": [
+            "corn",
+            "pressure"
+        ],
+        "text": "15 psi for 90 min",
+        "color": "#2a2a2a",
+        "image_filename": null,
+        "updated_at": "2024-08-21T07:49:23.449000",
+        "created_at": "2024-08-21T04:43:14.756000"
+    },
+    {
+        "id": "54004ca31924",
+        "culture_id": "5f6a7573745f",
+        "favorite": false,
+        "tags": [
+            "grain",
+            "corn",
+            "agar",
+            "oyster"
+        ],
+        "text": "agar2grain - too corny relationships",
+        "color": "#2a2a2a",
+        "image_filename": "54004ca31924.png",
+        "updated_at": "2024-08-21T04:49:47.896000",
+        "created_at": "2024-08-21T04:49:47.896000"
+    },
+    {
+        "id": "f0eb7a17b5e0",
+        "culture_id": "646565706572",
+        "favorite": true,
+        "tags": [
+            "clone",
+            "petri"
+        ],
+        "text": "found how to clone mushroom! 1) put in petri dish 2) wait",
+        "color": "#2a2a2a",
+        "image_filename": "f0eb7a17b5e0.png",
+        "updated_at": "2024-10-10T07:03:52.977000",
+        "created_at": "2024-10-10T06:46:46.085000"
+    },
+    {
+        "id": "a1dbdac905fc",
+        "culture_id": "616672616964",
+        "favorite": true,
+        "tags": [
+            "harvest",
+            "oyster"
+        ],
+        "text": "oyster mushrooms, around 450g wet",
+        "color": "#2a2a2a",
+        "image_filename": "a1dbdac905fc.png",
+        "updated_at": "2024-10-11T06:50:47.981000",
+        "created_at": "2024-10-11T06:50:47.981000"
+    },
+    {
+        "id": "d6becf5dff6c",
+        "culture_id": "616672616964",
+        "favorite": false,
+        "tags": [
+            "dry"
+        ],
+        "text": "oyster mushrooms, dry 10g ",
+        "color": "#2a2a2a",
+        "image_filename": null,
+        "updated_at": "2024-10-11T06:51:35.509000",
+        "created_at": "2024-10-11T06:51:35.509000"
+    },
+    {
+        "id": "73e12abfc4a5",
+        "culture_id": "646976696e65",
+        "favorite": true,
+        "tags": [
+            "harvest",
+            "wet",
+            "dry",
+            "oyster"
+        ],
+        "text": "Oyster mushrooms, around 380 g wet and 12 g dry",
+        "color": "#2a2a2a",
+        "image_filename": "73e12abfc4a5.png",
+        "updated_at": "2024-10-12T06:52:51.159000",
+        "created_at": "2024-10-12T06:52:51.159000"
+    },
+    {
+        "id": "e67acebbc0b4",
+        "culture_id": "646976696e65",
+        "favorite": true,
+        "tags": [
+            "oyster"
+        ],
+        "text": "found a soup recipe!",
+        "color": "#2A2A2A",
+        "image_filename": "e67acebbc0b4.png",
+        "updated_at": "2024-10-12T07:01:56.458000",
+        "created_at": "2024-10-12T06:54:18.121000"
+    },
+    {
+        "id": "b3b7aa2acac8",
+        "culture_id": "646976696e65",
+        "favorite": false,
+        "tags": [],
+        "text": "I saw an eye in a triangular tunnel that showed me the way - probably because of the expired sour cream in the soup",
+        "color": "#FFD700",
+        "image_filename": "b3b7aa2acac8.png",
+        "updated_at": "2024-10-12T07:02:04.380000",
+        "created_at": "2024-10-12T07:01:35.934000"
+    },
+    {
+        "id": "2cf0ebab99f6",
+        "culture_id": "646f6e746265",
+        "favorite": false,
+        "tags": [
+            "spawn"
+        ],
+        "text": "more corn - more mushrooms!",
+        "color": "#2a2a2a",
+        "image_filename": null,
+        "updated_at": "2024-09-27T07:50:05.375000",
+        "created_at": "2024-09-27T07:50:05.375000"
+    }
+]
