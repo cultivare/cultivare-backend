@@ -1,0 +1,8 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+motor==3.6.1
+python-dotenv==1.0.1
+python-multipart==0.0.20
+python-slugify==8.0.4
+qrcode==8.0
+brother_ql @ git+https://github.com/cultivare/brother_ql.git
