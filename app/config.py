@@ -9,7 +9,7 @@ class Settings:
     DATABASE_NAME = os.getenv("CULTIVARE_DATABASE_NAME")
     CULTURES_COLLECTION_NAME = "cultures" or os.getenv("CULTIVARE_CULTURES_COLLECTION_NAME")
     NOTES_COLLECTION_NAME = "notes" or os.getenv("CULTIVARE_NOTES_COLLECTION_NAME")
-
+    INIT_EXAMPLE_DB = False or os.getenv("CULTIVARE_INIT_EXAMPLE_DB")
     FRONTEND_URL = os.getenv("CULTIVARE_FRONTEND_URL")
     MEDIA_DIR = "uploads" or os.getenv("CULTIVARE_MEDIA_DIR")
     ALLOWED_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp"} # for note's attachment
